@@ -1,0 +1,38 @@
+
+
+h1{
+    text-align: center;
+}
+
+p{
+    color:orangered;
+}
+.p_red{
+    color:red;
+}
+.p_blue{
+    color:blue;
+}
+.p_green{
+    color:green;
+}
+.styledFont{
+    color:green;
+}
+.p1{
+    font-size: 20px;
+}
+.p2{
+    font-size: 8px;
+}
+.p3{
+    text-align: center;
+}
+.p4{
+    font-family: cursive;
+}
+.p5{
+    font-size: 50;
+    color : orange;
+    font-weight: bold;
+}
